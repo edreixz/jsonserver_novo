@@ -5,7 +5,7 @@
       "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid1.png",
       "title": "New York City, E.U.A.",
       "description": "Nova York, a cidade que nunca dorme, é uma metrópole global que cativa o mundo com sua energia inigualável, diversidade incomparável e um horizonte icônico. Localizada na costa leste dos Estados Unidos, essa megalópole é muito mais do que apenas arranha-céus reluzentes e luzes brilhantes; é um caldeirão de culturas, uma encruzilhada de oportunidades e um epicentro cultural. Com mais de 8 milhões de habitantes, Nova York é uma cidade que pulsa com vida 24 horas por dia, 7 dias por semana.",
-      "date": "25/09/2023"
+      "date": "25/09/2023",
       "link": "nyc",
       "destaque": true,
       "location": "New York City, New York, U.S.A",
@@ -21,7 +21,7 @@
       "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid2.png",
       "title": "Dallas, E.U.A.",
       "description": "Dallas, no Texas, é uma cidade vibrante que combina o charme do Velho Oeste com uma atmosfera cosmopolita. Conhecida por sua arquitetura icônica, restaurantes de classe mundial e uma cena cultural rica, Dallas também abriga o famoso Museu de Arte de Dallas e o histórico Distrito West End. Além disso, é um centro econômico com empresas de tecnologia e petróleo. Com um clima quente e pessoas amigáveis, Dallas é uma metrópole diversificada e dinâmica que oferece algo para todos os gostos.",
-      "date": "25/09/2023"
+      "date": "25/09/2023",
       "link": "dallas",
       "destaque": false,
       "location": "Dallas, Texas, U.S.A.",
@@ -37,7 +37,7 @@
       "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid3.png",
       "title": "Barcelona, Espanha",
       "description": "Barcelona, na Espanha, é uma cidade deslumbrante que combina história e modernidade de maneira cativante. Suas icônicas construções de Gaudí, como a Sagrada Família e o Park Güell, encantam os visitantes. As praias de areia dourada, como a Barceloneta, oferecem relaxamento à beira-mar. A cena gastronômica é rica, com tapas deliciosas e mercados vibrantes como La Boqueria. A vida noturna fervilhante, com bares e clubes animados, fazem de Barcelona um destino imperdível na Espanha.",
-      "date": "25/09/2023"
+      "date": "25/09/2023",
       "link": "barcelona",
       "destaque": false,
       "location": "Barcelona, Catalunha, Espanha",
@@ -53,7 +53,7 @@
       "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid4.png",
       "title": "Tokyo, Japão",
       "description": "Tóquio, a vibrante capital do Japão, é uma fusão de tradição e modernidade. Lar de arranha-céus reluzentes e templos ancestrais, oferece uma experiência única. A cidade é famosa por sua culinária de classe mundial, desde sushi de alta qualidade até ramen de rua. Seus bairros como Shibuya, Akihabara e Harajuku são ícones da cultura pop global. Tóquio é conhecida por sua pontualidade e transporte eficiente, tornando a exploração da cidade fácil. É um destino que cativa com sua rica herança cultural, avanços tecnológicos e uma energia que nunca diminui.",
-      "date": "25/09/2023"
+      "date": "25/09/2023",
       "link": "tokyo",
       "destaque": false,
       "location": "Tokyo, Shinjuku, Japão",
