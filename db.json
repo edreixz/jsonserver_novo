@@ -47,12 +47,12 @@
         "https://media.cnn.com/api/v1/images/stellar/prod/201112110433-01-sagrada-familia.jpg?q=x_2,y_192,h_898,w_1596,c_crop/w_800",
         "https://www.vagantohotel.com/wp-content/uploads/2022/08/Magic-Fountain-Montjuic-Show-Barcelona.jpg"
       ]
-    }
+    },
     {
       "id": 4,
       "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid4.png",
       "title": "Tokyo, Japão",
-      "description": "Tóquio, a vibrante capital do Japão, é uma fusão de tradição e modernidade. Lar de arranha-céus reluzentes e templos ancestrais, oferece uma experiência única. A cidade é famosa por sua culinária de classe mundial, desde sushi de alta qualidade até ramen de rua. Seus bairros como Shibuya, Akihabara e Harajuku são ícones da cultura pop global. Tóquio é conhecida por sua pontualidade e transporte eficiente, tornando a exploração da cidade fácil. É um destino que cativa com sua rica herança cultural, avanços tecnológicos e uma energia que nunca diminui.",
+      "description": "Tóquio, a vibrante capital do Japão, é uma fusão de tradição e modernidade. Lar de arranha-céus reluzentes e templos ancestrais, oferece uma experiência única. A cidade é famosa por sua culinária de classe mundial, desde sushi de alta qualidade até ramen de rua. Seus bairros como Shibuya, Akihabara e Harajuku são ícones da cultura pop global. Tóquio é conhec
       "date": "25/09/2023",
       "link": "tokyo",
       "destaque": false,
