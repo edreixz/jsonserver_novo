@@ -1,67 +1,68 @@
 {
-  "albums": [
-    {
-      "id": 1,
-      "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid1.png",
-      "title": "New York City, E.U.A.",
-      "description": "a",
-      "date": "25/09/2023",
-      "link": "nyc",
-      "destaque": true,
-      "location": "New York City, New York, U.S.A",
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Times_Square_April_2022_by_D_Ramey_Logan.jpg/800px-Times_Square_April_2022_by_D_Ramey_Logan.jpg",
-        "https://assets.iflscience.com/assets/articleNo/70585/aImg/70536/statue-of-liberty-m.png",
-        "https://4kwallpapers.com/images/walls/thumbs_2t/1343.jpg",
-        "https://u9e6s4x4.stackpathcdn.com/wp-content/uploads/2023/03/Passeio-pelo-Central-Park-em-Nova-York.png"
-      ]
-    },
-    {
-      "id": 2,
-      "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid2.png",
-      "title": "Dallas, E.U.A.",
-      "description": "a",
-      "date": "25/09/2023",
-      "link": "dallas",
-      "destaque": false,
-      "location": "Dallas, Texas, U.S.A.",
-      "photos": [
-        "https://media.cntraveler.com/photos/5b99699c84c0c47ae99de482/16:9/w_2560,c_limit/Klyde-Warren-Park_GettyImages-625339450.jpg",
-        "https://ak-d.tripcdn.com/images/0355g120009420se29C06_C_800_450_Q80.jpg",
-        "https://www.globalconstructionreview.com/wp-content/uploads/2023/08/gallery4.jpg",
-        "https://a.travel-assets.com/findyours-php/viewfinder/images/res30/263000/263405-Pioneer-Plaza.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid3.png",
-      "title": "Barcelona, Espanha",
-      "description": "a",
-      "date": "25/09/2023",
-      "link": "barcelona",
-      "destaque": false,
-      "location": "Barcelona, Catalunha, Espanha",
-      "photos": [
-        "https://res.cloudinary.com/hello-tickets/image/upload/ar_16:9,c_fill,f_auto,q_auto,w_800/v1658214365/j15mlx5ec2c4q3954dov.jpg",
-        "https://www.intrepidtravel.com/adventures/wp-content/uploads/2016/10/La-Boqueria-feature-Adriano-Aguilo.jpg",
-        "https://media.cnn.com/api/v1/images/stellar/prod/201112110433-01-sagrada-familia.jpg?q=x_2,y_192,h_898,w_1596,c_crop/w_800",
-        "https://www.vagantohotel.com/wp-content/uploads/2022/08/Magic-Fountain-Montjuic-Show-Barcelona.jpg"
-      ]
-    },
-    {
-      "id": 4,
-      "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid4.png",
-      "title": "Tokyo, Japão",
-      "description": "a",
-      "date": "25/09/2023",
-      "link": "tokyo",
-      "destaque": false,
-      "location": "Tokyo, Shinjuku, Japão",
-      "photos": [
-        "https://trabalho-diw--1edrei.repl.co/tokyo1.jpg",
-        "https://media.cnn.com/api/v1/images/stellar/prod/190429174236-imperial-palace-tokyo.jpg?q=x_0,y_0,h_900,w_1600,c_crop/w_800",
-        "https://wattention.com/wp-content/uploads/2020/07/akihabara-manga-002-800x450.jpg",
-        "https://ak-d.tripcdn.com/images/0103q2224nzzbg6whD75A_W_800_0_R5_Q90.jpg"
-      ]
-    }
+    "albums": [
+        {
+            "id": 1,
+            "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid1.png",
+            "title": "New York City, E.U.A.",
+            "description": "Cidade icônica dos EUA",
+            "date": "25/09/2023",
+            "link": "nyc",
+            "destaque": true,
+            "location": "New York City, New York, U.S.A",
+            "photos": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Times_Square_April_2022_by_D_Ramey_Logan.jpg/800px-Times_Square_April_2022_by_D_Ramey_Logan.jpg",
+                "https://assets.iflscience.com/assets/articleNo/70585/aImg/70536/statue-of-liberty-m.png",
+                "https://4kwallpapers.com/images/walls/thumbs_2t/1343.jpg",
+                "https://res.listglobally.com/listings/5774388/92042008/6c3f6cf2cdaefad40fe34a6987302c25?mode=crop&w=800&h=450"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid2.png",
+            "title": "Dallas, E.U.A.",
+            "description": "Cidade texana vibrante",
+            "date": "25/09/2023",
+            "link": "dallas",
+            "destaque": false,
+            "location": "Dallas, Texas, U.S.A.",
+            "photos": [
+                "https://media.cntraveler.com/photos/5b99699c84c0c47ae99de482/16:9/w_2560,c_limit/Klyde-Warren-Park_GettyImages-625339450.jpg",
+                "https://ak-d.tripcdn.com/images/0355g120009420se29C06_C_800_450_Q80.jpg",
+                "https://www.globalconstructionreview.com/wp-content/uploads/2023/08/gallery4.jpg",
+                "https://a.travel-assets.com/findyours-php/viewfinder/images/res30/263000/263405-Pioneer-Plaza.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid3.png",
+            "title": "Barcelona, Espanha",
+            "description": "Centro da cultura catalã",
+            "date": "25/09/2023",
+            "link": "barcelona",
+            "destaque": false,
+            "location": "Barcelona, Catalunha, Espanha",
+            "photos": [
+                "https://res.cloudinary.com/hello-tickets/image/upload/ar_16:9,c_fill,f_auto,q_auto,w_800/v1658214365/j15mlx5ec2c4q3954dov.jpg",
+                "https://www.intrepidtravel.com/adventures/wp-content/uploads/2016/10/La-Boqueria-feature-Adriano-Aguilo.jpg",
+                "https://media.cnn.com/api/v1/images/stellar/prod/201112110433-01-sagrada-familia.jpg?q=x_2,y_192,h_898,w_1596,c_crop/w_800",
+                "https://www.vagantohotel.com/wp-content/uploads/2022/08/Magic-Fountain-Montjuic-Show-Barcelona.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://trabalho-diw-json--1edrei.repl.co/cid4.png",
+            "title": "Tokyo, Japão",
+            "description": "Grande metrópole japonesa",
+            "date": "25/09/2023",
+            "link": "tokyo",
+            "destaque": false,
+            "location": "Tokyo, Shinjuku, Japão",
+            "photos": [
+                "https://trabalho-diw--1edrei.repl.co/tokyo1.jpg",
+                "https://media.cnn.com/api/v1/images/stellar/prod/190429174236-imperial-palace-tokyo.jpg?q=x_0,y_0,h_900,w_1600,c_crop/w_800",
+                "https://wattention.com/wp-content/uploads/2020/07/akihabara-manga-002-800x450.jpg",
+                "https://ak-d.tripcdn.com/images/0103q2224nzzbg6whD75A_W_800_0_R5_Q90.jpg"
+            ]
+        }
+    ]
 }
